@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mattcsilva/mattcsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Yo! 👋
+
+Iniciei como desenvolvedor apenas por diversão e hoje busco me divertir sendo um profissional no mundo dos negócios.
+
+[![Linkedin Badge](https://img.shields.io/badge/-MatheusCabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscabralsilva95/)](https://www.linkedin.com/in/matheuscabralsilva95/) 
