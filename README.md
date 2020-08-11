@@ -12,9 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-MatheusCabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscabralsilva95/)](https://www.linkedin.com/in/matheuscabralsilva95/) 
 
 ### Yo! 👋
 
 Iniciei como desenvolvedor apenas por diversão e hoje busco me divertir sendo um profissional no mundo dos negócios.
 
-[![Linkedin Badge](https://img.shields.io/badge/-MatheusCabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscabralsilva95/)](https://www.linkedin.com/in/matheuscabralsilva95/) 
+- :heartpulse:   Coding
+- :computer:   VueJS, PHP, MySQL
+- 🌱 I’m currently learning ReactJS, React Native and Node
+
+"As atividades mais agradáveis não são naturais; elas exigem um esforço que inicialmente se reluta em fazer. Mas uma vez que a interação começa a fornecer feedback às habilidades da pessoa, geralmente começa a ser intrinsecamente recompensadora."
